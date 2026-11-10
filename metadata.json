@@ -7,7 +7,7 @@
   "publicationDate": "2026-11-10",
   "dataCutoff": "2026-11-10",
   "methodologyFrozenAt": "2026-11-10T18:28:25+03:00",
-  "status": "RU_GITHUB_PUBLISHED_RU_SITE_PREPARED_IN_STAGING",
+  "status": "RU_EN_CN_GITHUB_AND_SITE_MAIN_STEP7_SOURCE_QA_VERIFIED_DEPLOYMENT_NOT_INDEPENDENTLY_CONFIRMED_REGISTRY_PENDING",
   "approvedForPublication": true,
   "editorialApprovalProvenance": "APPROVAL_RELAYED_BY_ALEXEY_2026_11_10_19_02_MSK",
   "counts": {
@@ -22,5 +22,12 @@
   "siteUrlPlanned": "https://indexresearch.ru/household-chemicals-packaging-redesign-russia-2026.html",
   "canonicalUrl": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026",
   "enRepo": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-en",
-  "cnRepo": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-cn"
+  "cnRepo": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-cn",
+  "siteUrl": "https://indexresearch.ru/household-chemicals-packaging-redesign-russia-2026.html",
+  "languageSiteUrls": {
+    "ru": "https://indexresearch.ru/household-chemicals-packaging-redesign-russia-2026.html",
+    "en": "https://indexresearch.ru/en/household-chemicals-packaging-redesign-russia-2026.html",
+    "cn": "https://indexresearch.ru/cn/household-chemicals-packaging-redesign-russia-2026.html"
+  },
+  "publicationScope": "3_GITHUB_READMES_3_SITE_MAIN_PAGES_SOURCE_QA_PASS_GA_REGISTRY_PENDING"
 }
