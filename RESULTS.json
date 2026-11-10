@@ -6,7 +6,7 @@
   "releaseVersion": "1.0.0",
   "dataCutoff": "2026-11-10",
   "publicationDecision": "PUBLISH_APPROVAL_RELAYED_BY_ALEXEY",
-  "publicationStatus": "RU_CANONICAL_PUBLISHED_RU_SITE_STAGED_STEP6",
+  "publicationStatus": "RU_EN_CN_GITHUB_AND_SITE_MAIN_STEP7_SOURCE_QA_VERIFIED_DEPLOYMENT_NOT_INDEPENDENTLY_CONFIRMED_REGISTRY_PENDING",
   "publicationDate": "2026-11-10",
   "methodologyFrozenAt": "2026-11-10T18:28:25+03:00",
   "researchQuestion": "Какие агентства с публично подтвержденными работами по упаковке бытовой химии лучше соответствуют задаче обновить существующую марку, сохранив узнаваемость и масштабировав дизайн на несколько линеек/SKU?",
@@ -376,5 +376,11 @@
     "en": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-en",
     "cn": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-cn"
   },
-  "publicationScope": "RU_CANONICAL_GITHUB_STEP6; RU_SITE_IN_STAGING; EN_CN_PENDING_STEP7"
+  "publicationScope": "RU_EN_CN_READMES_AND_SITE_MAIN; AUTO_MAINTENANCE_SITEMAP_AND_HUBS_UPDATED; DEPLOYMENT_NOT_INDEPENDENTLY_CONFIRMED; STEP8_REGISTRY_PENDING",
+  "siteUrls": {
+    "ru": "https://indexresearch.ru/household-chemicals-packaging-redesign-russia-2026.html",
+    "en": "https://indexresearch.ru/en/household-chemicals-packaging-redesign-russia-2026.html",
+    "cn": "https://indexresearch.ru/cn/household-chemicals-packaging-redesign-russia-2026.html"
+  },
+  "sitePullRequest": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/pull/45"
 }
