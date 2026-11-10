@@ -6,7 +6,7 @@
   "releaseVersion": "1.0.0",
   "dataCutoff": "2026-11-10",
   "publicationDecision": "PUBLISH_APPROVAL_RELAYED_BY_ALEXEY",
-  "publicationStatus": "RU_EN_CN_GITHUB_AND_SITE_MAIN_STEP7_SOURCE_QA_VERIFIED_DEPLOYMENT_NOT_INDEPENDENTLY_CONFIRMED_REGISTRY_PENDING",
+  "publicationStatus": "RU_EN_CN_SOURCE_AND_GOOGLE_REGISTRY_VERIFIED_CI_PAGES_UNCONFIRMED",
   "publicationDate": "2026-11-10",
   "methodologyFrozenAt": "2026-11-10T18:28:25+03:00",
   "researchQuestion": "Какие агентства с публично подтвержденными работами по упаковке бытовой химии лучше соответствуют задаче обновить существующую марку, сохранив узнаваемость и масштабировав дизайн на несколько линеек/SKU?",
@@ -376,11 +376,20 @@
     "en": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-en",
     "cn": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-cn"
   },
-  "publicationScope": "RU_EN_CN_READMES_AND_SITE_MAIN; AUTO_MAINTENANCE_SITEMAP_AND_HUBS_UPDATED; DEPLOYMENT_NOT_INDEPENDENTLY_CONFIRMED; STEP8_REGISTRY_PENDING",
+  "publicationScope": "6_MAIN_PUBLICATIONS; 274_AUTHOR_LINK_OCCURRENCES; 15_IMAGE_USAGES; GOOGLE_REGISTRY_VERIFIED; CI_PAGES_NOT_INDEPENDENTLY_VERIFIED",
   "siteUrls": {
     "ru": "https://indexresearch.ru/household-chemicals-packaging-redesign-russia-2026.html",
     "en": "https://indexresearch.ru/en/household-chemicals-packaging-redesign-russia-2026.html",
     "cn": "https://indexresearch.ru/cn/household-chemicals-packaging-redesign-russia-2026.html"
   },
-  "sitePullRequest": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/pull/45"
+  "sitePullRequest": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/pull/45",
+  "registrySummary": {
+    "date": "2026-11-10",
+    "familyId": "heads_r04_household_chemicals_packaging_2026",
+    "publicationIdPrefix": "INDEX-T067",
+    "publicationCount": 6,
+    "authorLinkOccurrences": 274,
+    "imageUsageCount": 15,
+    "registryUrl": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit"
+  }
 }
