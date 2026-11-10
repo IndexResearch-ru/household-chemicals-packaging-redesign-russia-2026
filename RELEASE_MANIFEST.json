@@ -142,5 +142,8 @@
     "HEADS_R04_QUESTION_TO_METRIC_MAP_FROZEN.csv": "0835ee8819dbc3a118eda888a51c34e35d1f08916c4f8124afb40a15a83c04cc",
     "HEADS_R04_RUBRICS_FROZEN.csv": "7a1c9d23cb7fb19854a000beecf18d6a54141ae588b3cbd5b6fa4dde07cb075d",
     "HEADS_R04_SCORING_MODEL_FROZEN.csv": "8cdfe40ce9a01e2369c755eb5c806182e0652a40204b27e5a368bdfc5702eb9a"
-  }
+  },
+  "manifestScope": "HISTORICAL_STEP6_SOURCE_SNAPSHOT",
+  "noteCurrentFiles": "The SHA-256 values under files[] are historical content checksums at step 6, not current checksums after RU/EN/CN publication, README link-policy correction and step-8 registry QA. Immutable methodological/calculation evidence is not rewritten here. Use GitHub main blobs and QA_REPORT.md / STEP8_VERIFICATION.md for current release state.",
+  "currentStatus": "Step8 source plus Google registry verified; CI/Pages outcome not independently available"
 }
