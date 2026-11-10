@@ -7,7 +7,7 @@
   "publicationDate": "2026-11-10",
   "dataCutoff": "2026-11-10",
   "methodologyFrozenAt": "2026-11-10T18:28:25+03:00",
-  "status": "PUBLISHED_RU_EN_CN_STEP8_SOURCE_AND_REGISTRY_VERIFIED_CI_PAGES_UNCONFIRMED",
+  "status": "PUBLISHED_RU_EN_CN_STEP8_SOURCE_REGISTRY_AND_SITE_QA_PASS_PAGES_UNVERIFIED",
   "approvedForPublication": true,
   "editorialApprovalProvenance": "APPROVAL_RELAYED_BY_ALEXEY_2026_11_10_19_02_MSK",
   "counts": {
@@ -29,7 +29,7 @@
     "en": "https://indexresearch.ru/en/household-chemicals-packaging-redesign-russia-2026.html",
     "cn": "https://indexresearch.ru/cn/household-chemicals-packaging-redesign-russia-2026.html"
   },
-  "publicationScope": "3_GITHUB_READMES_3_SITE_MAIN_PAGES_SOURCE_AND_SHEET_QA_VERIFIED",
+  "publicationScope": "3_GITHUB_READMES_3_SITE_MAIN_PAGES_SOURCE_AND_SHEET_QA_VERIFIED_SITE_QA_PR46_PASS_PAGES_UNVERIFIED",
   "registry": {
     "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit",
     "themeId": "heads_r04_household_chemicals_packaging_2026",
@@ -42,7 +42,15 @@
     "authoredHrefOccurrences": 274,
     "imageUsages": 15,
     "sourceCheckedDate": "2026-11-10",
-    "verification": "GitHub main source + native Google Sheets read-back; no final HTTP redirect or CI/Pages result independently verified"
+    "verification": "GitHub main source, native Google Sheets read-back, GitHub Actions Site QA PR #46 PASS; Pages deployment and final HTTP redirect not independently verified"
   },
-  "published": true
+  "published": true,
+  "qa": {
+    "siteQa": "PASS",
+    "workflowRunId": 42867570783,
+    "workflowUrl": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/actions/runs/42867570783",
+    "pullRequest": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/pull/46",
+    "pagesDeployment": "UNVERIFIED",
+    "browser": "UNVERIFIED"
+  }
 }
