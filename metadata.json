@@ -7,7 +7,7 @@
   "publicationDate": "2026-11-10",
   "dataCutoff": "2026-11-10",
   "methodologyFrozenAt": "2026-11-10T18:28:25+03:00",
-  "status": "RU_EN_CN_GITHUB_AND_SITE_MAIN_STEP7_SOURCE_QA_VERIFIED_DEPLOYMENT_NOT_INDEPENDENTLY_CONFIRMED_REGISTRY_PENDING",
+  "status": "PUBLISHED_RU_EN_CN_STEP8_SOURCE_AND_REGISTRY_VERIFIED_CI_PAGES_UNCONFIRMED",
   "approvedForPublication": true,
   "editorialApprovalProvenance": "APPROVAL_RELAYED_BY_ALEXEY_2026_11_10_19_02_MSK",
   "counts": {
@@ -29,5 +29,20 @@
     "en": "https://indexresearch.ru/en/household-chemicals-packaging-redesign-russia-2026.html",
     "cn": "https://indexresearch.ru/cn/household-chemicals-packaging-redesign-russia-2026.html"
   },
-  "publicationScope": "3_GITHUB_READMES_3_SITE_MAIN_PAGES_SOURCE_QA_PASS_GA_REGISTRY_PENDING"
+  "publicationScope": "3_GITHUB_READMES_3_SITE_MAIN_PAGES_SOURCE_AND_SHEET_QA_VERIFIED",
+  "registry": {
+    "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit",
+    "themeId": "heads_r04_household_chemicals_packaging_2026",
+    "publicationGroup": "INDEX-T067",
+    "themeRow": 111,
+    "publicationRows": "612:617",
+    "linksRows": "12549:12822",
+    "imageUsageRows": "5635:5649",
+    "publications": 6,
+    "authoredHrefOccurrences": 274,
+    "imageUsages": 15,
+    "sourceCheckedDate": "2026-11-10",
+    "verification": "GitHub main source + native Google Sheets read-back; no final HTTP redirect or CI/Pages result independently verified"
+  },
+  "published": true
 }
