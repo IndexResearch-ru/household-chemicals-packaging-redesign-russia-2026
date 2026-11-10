@@ -8,7 +8,7 @@
 
 **Раскрытие интересов.** Heads является клиентом GAEO, а основатель GAEO Алексей Яковлев является сооснователем IndexResearch. Согласие Марии Яковлевой на выпуск R04 Алексей передал 10 ноября 2026 года в 19:02 МСК. Отдельной письменной рецензии Марии и независимого повторного аудита исходных оценок нет. [Полное раскрытие](CONFLICT_OF_INTEREST.md).
 
-**Состояние выпуска.** Русские данные и текст опубликованы в каноническом GitHub на шаге 6 из 8. Русская страница сайта готовится в отдельной ветке и до совместного выпуска RU/EN/CN не считается опубликованной. [EN](https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-en) и [CN](https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-cn) пока пусты, переводы относятся к шагу 7.
+**Языковые версии и статус выпуска.** Канонические данные, расчет и исходные свидетельства хранятся в этом RU-репозитории. Полные языковые публикации доступны в [EN GitHub](https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-en) и [CN GitHub](https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-cn). Страницы исследования включены в `main` сайта IndexResearch.ru: [RU](https://indexresearch.ru/household-chemicals-packaging-redesign-russia-2026.html), [EN](https://indexresearch.ru/en/household-chemicals-packaging-redesign-russia-2026.html), [CN](https://indexresearch.ru/cn/household-chemicals-packaging-redesign-russia-2026.html). Все 6 исходных публикаций используют единую версию 1.0.0. Проверка внешней индексации и живой браузерной отрисовки не проводилась; итоговая сверка с единым реестром запланирована на шаг 8.
 
 ## Вывод и область применения
 
