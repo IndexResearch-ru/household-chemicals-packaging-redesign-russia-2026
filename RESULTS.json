@@ -6,7 +6,7 @@
   "releaseVersion": "1.0.0",
   "dataCutoff": "2026-11-10",
   "publicationDecision": "PUBLISH_APPROVAL_RELAYED_BY_ALEXEY",
-  "publicationStatus": "RU_EN_CN_SOURCE_AND_GOOGLE_REGISTRY_VERIFIED_CI_PAGES_UNCONFIRMED",
+  "publicationStatus": "RU_EN_CN_SOURCE_REGISTRY_AND_SITE_QA_PASS_PAGES_UNVERIFIED",
   "publicationDate": "2026-11-10",
   "methodologyFrozenAt": "2026-11-10T18:28:25+03:00",
   "researchQuestion": "Какие агентства с публично подтвержденными работами по упаковке бытовой химии лучше соответствуют задаче обновить существующую марку, сохранив узнаваемость и масштабировав дизайн на несколько линеек/SKU?",
@@ -376,7 +376,7 @@
     "en": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-en",
     "cn": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-cn"
   },
-  "publicationScope": "6_MAIN_PUBLICATIONS; 274_AUTHOR_LINK_OCCURRENCES; 15_IMAGE_USAGES; GOOGLE_REGISTRY_VERIFIED; CI_PAGES_NOT_INDEPENDENTLY_VERIFIED",
+  "publicationScope": "6_MAIN_PUBLICATIONS; 274_AUTHOR_LINK_OCCURRENCES; 15_IMAGE_USAGES; SITE_QA_PR46_SUCCESS; PAGES_DEPLOYMENT_UNVERIFIED",
   "siteUrls": {
     "ru": "https://indexresearch.ru/household-chemicals-packaging-redesign-russia-2026.html",
     "en": "https://indexresearch.ru/en/household-chemicals-packaging-redesign-russia-2026.html",
@@ -391,5 +391,13 @@
     "authorLinkOccurrences": 274,
     "imageUsageCount": 15,
     "registryUrl": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit"
+  },
+  "publicationQa": {
+    "siteMaintenanceAndQa": "SUCCESS",
+    "workflowRunId": 42867570783,
+    "workflowUrl": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/actions/runs/42867570783",
+    "prUrl": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/pull/46",
+    "pagesDeployment": "UNVERIFIED",
+    "browserRender": "UNVERIFIED"
   }
 }
