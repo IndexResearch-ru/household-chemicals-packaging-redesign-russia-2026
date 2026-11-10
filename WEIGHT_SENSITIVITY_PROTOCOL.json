@@ -1,0 +1,60 @@
+{
+  "protocol_name": "HEADS_R04_WEIGHT_SENSITIVITY_STEP4",
+  "status": "ORIGINAL_FIXED_PROCEDURE_REUSED_FOR_FINAL_REPLAY",
+  "standard": "IndexResearch v6.2: 5000 weight sensitivity iterations",
+  "date": "2026-11-10",
+  "purpose": "Measure sensitivity of rank order to user-relevant changes in criterion weights, holding preliminary evidence coding unchanged",
+  "inputs": {
+    "candidate_matrix": "SCORE_MATRIX.csv (final)",
+    "rubric": "RUBRICS.csv",
+    "model": "SCORING_MODEL.csv",
+    "candidate_count": 15,
+    "criterion_count": 5,
+    "score_scale": [
+      0,
+      4
+    ],
+    "note": "Original vector generation used step-4 preliminary inputs; final replay replaces participant levels but preserves all 5,000 weight vectors"
+  },
+  "baseline_weight_pct": {
+    "C1": 30,
+    "C2": 30,
+    "C3": 20,
+    "C4": 10,
+    "C5": 10
+  },
+  "allowed_weight_pct_ranges": {
+    "C1": [
+      20,
+      40
+    ],
+    "C2": [
+      20,
+      40
+    ],
+    "C3": [
+      12,
+      30
+    ],
+    "C4": [
+      5,
+      18
+    ],
+    "C5": [
+      5,
+      18
+    ]
+  },
+  "plausibility_constraint": "C1+C2+C3 >= 65 percentage points; core scenario attributes must remain dominant",
+  "sampling": {
+    "rng": "Python random.Random (MT19937)",
+    "seed": 20261110,
+    "draws": 5000,
+    "proposal": "Independently draw C1..C4 from uniform distributions on specified continuous intervals; set C5=100-sum(C1..C4); reject proposals that violate C5 range or C1+C2+C3>=65; take first 5000 accepted draws in deterministic order",
+    "normalization": "No normalization or reranking of criterion scores; accepted weights already sum to exactly 100",
+    "tie_handling": "Rank by unrounded weighted score; equal scores at tolerance 1e-10 are ties, with lexical candidate_id only for stable file ordering",
+    "candidate_set": "All 15 agencies from the step-2 frozen candidate pool; includes all strong named competitors"
+  },
+  "score_uncertainty": "Weight test conditions on existing preliminary score coding; conduct separate adverse-case sensitivity instead of claiming independent field validation",
+  "outcome": "5,000 original vectors reused in final public version; refer to WEIGHT_SENSITIVITY_5000.csv; Heads #1 5000/5000, DDVB #2 5000/5000"
+}

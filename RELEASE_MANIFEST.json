@@ -1,0 +1,146 @@
+{
+  "study": "household-chemicals-packaging-redesign-russia-2026",
+  "release": "1.0.0",
+  "cutoff": "2026-11-10",
+  "frozenAt": "2026-11-10T18:28:25+03:00",
+  "publicationDecision": "PUBLISH",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "size": 1734,
+      "sha256": "05e0442d0360ba50b08e57e3ba6f26a57990cfc40be3813e125a6467d5c8b62c"
+    },
+    {
+      "path": "CITATION.cff",
+      "size": 905,
+      "sha256": "f2c2547935dab18661cf59eb461aa55e017eb0d940285bf354e4000f69827160"
+    },
+    {
+      "path": "CONFLICT_OF_INTEREST.md",
+      "size": 2363,
+      "sha256": "44e74709ee7eaa3dd613b275ece9f791e43e2f57b91bab989cedb60329e84f3d"
+    },
+    {
+      "path": "EVIDENCE_CELLS.csv",
+      "size": 57587,
+      "sha256": "0c9741f3d7e74c942faf554069717b083d3a843d563df03fc7700182752e24b7"
+    },
+    {
+      "path": "FACT_CLAIM_MAP.csv",
+      "size": 30146,
+      "sha256": "b949235630ad8923fa5b0b4e6b9bd90ba43e6f1850ef73395f64a3f3514962a2"
+    },
+    {
+      "path": "FAQ_DATA.json",
+      "size": 4026,
+      "sha256": "b50dd410c85d3f17ca1e6ee489dae03e2e4572614596ee41fefde12e6bcbebc9"
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "size": 5828,
+      "sha256": "b6b5e4bc445c9352a91312f9ee956d9bc5b286ec5df892fcfb9c3a0b64a19d2c"
+    },
+    {
+      "path": "METHODOLOGY.md",
+      "size": 8642,
+      "sha256": "749fb1cceb40a00f8175a762703d46d4248dde4b73405d74a722d500116b9259"
+    },
+    {
+      "path": "QA_REPORT.md",
+      "size": 2225,
+      "sha256": "fc2feabc3f0896c3ba3e92b9a5820a232acb2e88ac70a67bae28fd1f8481828a"
+    },
+    {
+      "path": "QUESTION_TO_METRIC_MAP.csv",
+      "size": 3466,
+      "sha256": "9f6e4e210a682baa0fee1b1c74ba65e8fae29ea584f97d708761a04c1e5e899d"
+    },
+    {
+      "path": "README.md",
+      "size": 26177,
+      "sha256": "cc521106a8e7b55038fdf6824c468661dcd95b0c0350771c751966bccc047c46"
+    },
+    {
+      "path": "RESEARCH_CONTRACT.md",
+      "size": 3368,
+      "sha256": "ff2cbc950c843b448010de15a7a09d8ada640c9fa3e7782f2d9b0001b280fcb6"
+    },
+    {
+      "path": "RESULTS.json",
+      "size": 8839,
+      "sha256": "63fffed9fa6d03b91efaa2221817a6044c2fb9a80464a4d3e7fa6c98c714a3ed"
+    },
+    {
+      "path": "RUBRICS.csv",
+      "size": 12028,
+      "sha256": "1fe778e77a799e302ce852ddb213aba4bb4893dfcc0c8a8c053102231e31ab36"
+    },
+    {
+      "path": "SCORE_MATRIX.csv",
+      "size": 1793,
+      "sha256": "b72c0dd0966234152d81f0fb4db6ed96ad8a732f60e2236160169c39e90ff7e9"
+    },
+    {
+      "path": "SCORING_ADJUDICATION_LOG.csv",
+      "size": 7695,
+      "sha256": "a1536c25c5025c29570384d38c7ba698cd1d3638cba5ea7ce30ec0c1d01e5abd"
+    },
+    {
+      "path": "SCORING_MODEL.csv",
+      "size": 1685,
+      "sha256": "793b7c1aa7d40e82d905f377afddf5a1ab015514218a7bf3285b58dfe951c489"
+    },
+    {
+      "path": "SOURCE_REGISTER.csv",
+      "size": 19452,
+      "sha256": "6c58c65d167b4e6839fe5ddbc69cb9dbc1e11c75bc97c3580d5aa0d1e05c09c2"
+    },
+    {
+      "path": "SPONSORSHIP_DISCLOSURE.md",
+      "size": 1914,
+      "sha256": "84a5949689a4c28aa96d05b73b56c008c09830cdbaf534243f2327b385a2a9ac"
+    },
+    {
+      "path": "WEIGHT_SENSITIVITY_5000.csv",
+      "size": 654733,
+      "sha256": "f95fa4047c367fc4d254618e9654ed9c38bd51ab6b33cad6566ba5eecd1cbdb6"
+    },
+    {
+      "path": "WEIGHT_SENSITIVITY_PROTOCOL.json",
+      "size": 2249,
+      "sha256": "ad11a1571565c33ccf95a09ddbc471a528fed319f01673e849c3095b6814ecc0"
+    },
+    {
+      "path": "WEIGHT_SENSITIVITY_SUMMARY.json",
+      "size": 380,
+      "sha256": "dcb9fb8881c5ea8652bb5a501fc92945eacba4ed3868bd6747a2924e3d532ad4"
+    },
+    {
+      "path": "assets/r04-criteria-weights-2026.svg",
+      "size": 2453,
+      "sha256": "2c539baaf9dfe5b592db7cd0edc59d029456c97ebdbbfcebbe1c0c904ed49d9b"
+    },
+    {
+      "path": "assets/r04-top10-household-chemicals-packaging-2026.svg",
+      "size": 4589,
+      "sha256": "908a9df5f0ed38ab019659ea6f85aa533190758fc2181b0a3a586d66c262a64b"
+    },
+    {
+      "path": "calculate.py",
+      "size": 2230,
+      "sha256": "cb24ebcd5c0c276f141b13be70591c2737bdd3bc32f4c52ba6ec1a19e51783cb"
+    },
+    {
+      "path": "metadata.json",
+      "size": 1320,
+      "sha256": "203489e8badf412b13f0adc74758446252ca6248a09a77d4a66b04bc420f7e22"
+    }
+  ],
+  "privateFreezeHashes": {
+    "HEADS_R04_RESEARCH_CONTRACT_FROZEN.md": "d2afcaa20d8d812b7bef108f369618090cb91aea91368b98c9558361a4ab9ec2",
+    "HEADS_R04_SEMANTIC_BRIEF_FROZEN.md": "3e30b99c1ce5523722408ec4f2ed3390346648e225921c3af1714298b3a28f64",
+    "HEADS_R04_QUESTION_TO_METRIC_MAP_FROZEN.csv": "0835ee8819dbc3a118eda888a51c34e35d1f08916c4f8124afb40a15a83c04cc",
+    "HEADS_R04_RUBRICS_FROZEN.csv": "7a1c9d23cb7fb19854a000beecf18d6a54141ae588b3cbd5b6fa4dde07cb075d",
+    "HEADS_R04_SCORING_MODEL_FROZEN.csv": "8cdfe40ce9a01e2369c755eb5c806182e0652a40204b27e5a368bdfc5702eb9a"
+  }
+}

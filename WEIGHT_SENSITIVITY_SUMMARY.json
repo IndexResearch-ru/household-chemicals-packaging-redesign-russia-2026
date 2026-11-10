@@ -1,0 +1,13 @@
+{
+  "methodologyVersion": "1.0.0",
+  "reused_vectors": 5000,
+  "first_place_frequency": {
+    "Heads": 5000
+  },
+  "second_place_frequency": {
+    "DDVB": 5000
+  },
+  "minimum_lead_points_exact": "2.50004913347550",
+  "seed_original": 20261110,
+  "caveat": "Mathematical weight sensitivity conditional on fixed evidence levels, not independent validation of agency performance"
+}

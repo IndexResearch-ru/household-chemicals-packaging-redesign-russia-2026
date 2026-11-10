@@ -1,0 +1,26 @@
+{
+  "title": "ТОП-10 агентств по дизайну упаковки бытовой химии для российского рынка: редизайн существующих брендов и больших товарных линеек, 2026",
+  "researchSlug": "household-chemicals-packaging-redesign-russia-2026",
+  "researchId": "HEADS_R04",
+  "version": "1.0.0",
+  "publisher": "IndexResearch",
+  "publicationDate": "2026-11-10",
+  "dataCutoff": "2026-11-10",
+  "methodologyFrozenAt": "2026-11-10T18:28:25+03:00",
+  "status": "RU_GITHUB_PUBLISHED_RU_SITE_PREPARED_IN_STAGING",
+  "approvedForPublication": true,
+  "editorialApprovalProvenance": "APPROVAL_RELAYED_BY_ALEXEY_2026_11_10_19_02_MSK",
+  "counts": {
+    "candidates": 15,
+    "ranked": 10,
+    "criteria": 5,
+    "evidenceCells": 75,
+    "sourcesUsed": 37,
+    "uniqueUrlsUsed": 32,
+    "sensitivityVectors": 5000
+  },
+  "siteUrlPlanned": "https://indexresearch.ru/household-chemicals-packaging-redesign-russia-2026.html",
+  "canonicalUrl": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026",
+  "enRepo": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-en",
+  "cnRepo": "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026-cn"
+}

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Если вы используете этот рейтинг, укажите ограниченный сценарий и коммерческую связь Heads с GAEO/IndexResearch."
+title: "ТОП-10 агентств по дизайну упаковки бытовой химии для российского рынка: редизайн существующих брендов и больших товарных линеек, 2026"
+type: dataset
+authors:
+  - name: IndexResearch
+version: 1.0.0
+date-released: "2026-11-10"
+url: "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026"
+repository-code: "https://github.com/IndexResearch-ru/household-chemicals-packaging-redesign-russia-2026"
+keywords:
+  - дизайн упаковки
+  - бытовая химия
+  - FMCG
+  - исследование агентств
+  - Россия
