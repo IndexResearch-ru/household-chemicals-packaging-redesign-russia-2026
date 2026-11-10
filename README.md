@@ -78,49 +78,49 @@
 
 В материалах DDVB описано обновление 5 узнаваемых марок Reckitt для российского рынка: Finish / Signum, Vanish / Resolve, Calgon / Salgent, Cillit Bang / Brillit Blast и Tiret / Xtormer. Сохранение брендовых признаков и распределение товарных категорий подтверждают высокую предметную пригодность. Отдельных протоколов потребительского тестирования не найдено.
 
-**Основные свидетельства:** [S050](https://www.sostav.ru/publication/rebrending-bez-lishnikh-pyaten-86879.html) · [S034](https://news.unipack.ru/97877/) · [S053](https://www.ddvb.ru/portfolio/woolite/). Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
+**Основные свидетельства:** [S050](https://www.sostav.ru/publication/rebrending-bez-lishnikh-pyaten-86879.html) · [S034](https://news.unipack.ru/97877/) · `S053`. Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
 
 ### 3. Tsoi Studio: 85.00/100
 
 Кейс WHITE GROUP охватывает многочисленные домашние товарные направления. Агентство заявляет более 40 линеек и 300 SKU, приводит примеры обновления Bimbo, Lotos и других марок. Масштаб основан на сообщении исполнителя; для критериев навигации и тестирования доступно меньше детальной фактуры.
 
-**Основные свидетельства:** [S015](https://www.tsoi-studio.com/projects/wg) · [S016](https://www.tsoi-studio.com/projects) · [S032](https://www.tsoi-studio.com/projects/wg). Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
+**Основные свидетельства:** `S015` · `S016` · `S032`. Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
 
 ### 4. Depot: 82.50/100
 
 В проекте BAGI агентство описывает обновление более 20 продуктов существующей марки, единый регламент этикеток, цветовое кодирование и пиктограммы. Исторический характер проекта (2017 год) не снижал оценку автоматически. Независимого испытания упаковок в открытом корпусе не представлено.
 
-**Основные свидетельства:** [S049](https://www.depotwpf.ru/news/depot_wpf_dlya_supereffektivnoy_izrailskoy_khimii_bagi/) · [S033](https://www.depotwpf.ru/portfolio/green_love/) · [S012](https://www.depotwpf.ru/portfolio/dimplax/). Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
+**Основные свидетельства:** `S049` · `S033` · `S012`. Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
 
 ### 5. Uprise Branding: 80.00/100
 
 При перезапуске Expel агентство описало сохраненные узнаваемые элементы, общий код для разных категорий бытовой химии, визуальные подсказки и исследование потребительского восприятия. Упоминание тестирования не сопровождается полным методическим протоколом.
 
-**Основные свидетельства:** [S039](https://uprise-branding.ru/projects/expel-restyling/). Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
+**Основные свидетельства:** `S039`. Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
 
 ### 6. GORYANIN BROTHERS: 77.50/100
 
 В проекте OCTO показаны упаковки для нескольких форматов средств бытовой химии. Агентство раскрывает визуальные символы, цветовую навигацию, информационную иерархию и различия функциональных продуктов.
 
-**Основные свидетельства:** [S021](https://goryaninbrothers.ru/projects/octo/) · [S036](https://goryaninbrothers.ru/projects/octo/). Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
+**Основные свидетельства:** `S021` · `S036`. Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
 
 ### 7. Pemberley: 75.00/100
 
 По Sanfor агентство раскрыло несколько этапов обновления упаковки существующей марки, включая средства WC, «10 в 1» и спреи. Приведены принципы считывания назначения, графические подсказки и решение для серии; полный масштабный охват портфеля не доказан.
 
-**Основные свидетельства:** [S038](https://pemberley.ru/portfolio/packagingdesign/redizajn-mnogofunkcionalnyh-spreev-sanfor/) · [S055](https://pemberley.ru/portfolio/). Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
+**Основные свидетельства:** `S038` · `S055`. Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
 
 ### 8. Антрэ: 72.50/100
 
 Для действующего бренда BAGI агентство документирует дизайн категории средств для стирки и брендбук с правилами оформления. Кейс подтверждает системную работу с ассортиментом, но охват меньше, чем в крупных многокатегорийных проектах лидеров.
 
-**Основные свидетельства:** [S037](https://antre.ru/proektyi/kreativ-and-dizajn/bagi-stirka-konczept.html) · [S045](https://antre.ru/proektyi/kreativ-and-dizajn/bagi-shumanit.html). Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
+**Основные свидетельства:** `S037` · `S045`. Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
 
 ### 9. Getbrand: 70.00/100
 
 Кейсы Clean Ocean и Vash GOLD относятся к обновлению упаковки действующих продуктов. Особенно подробно разобрана информационная иерархия и навигация для таблеток посудомоечных машин. Часть расширения ассортимента заявлена как планы.
 
-**Основные свидетельства:** [S019](https://www.getbrand.ru/portfolio/clean-ocean-chistota-i-svezhest-/) · [S035](https://news.unipack.ru/100515/). Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
+**Основные свидетельства:** `S019` · [S035](https://news.unipack.ru/100515/). Полные ссылки и оговорки: [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv).
 
 ### 10. Style You: 65.00/100
 
